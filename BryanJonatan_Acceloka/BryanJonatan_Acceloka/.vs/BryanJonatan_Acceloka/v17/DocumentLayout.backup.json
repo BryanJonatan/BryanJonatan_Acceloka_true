@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\source\\repos\\BryanJonatan_Acceloka\\BryanJonatan_Acceloka\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35967306-D0D7-4D48-BA2B-0DBC5FDAD771}|BryanJonatan_Acceloka.csproj|c:\\users\\asus\\source\\repos\\bryanjonatan_acceloka\\bryanjonatan_acceloka\\controllers\\ticketcontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35967306-D0D7-4D48-BA2B-0DBC5FDAD771}|BryanJonatan_Acceloka.csproj|solutionrelative:controllers\\ticketcontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35967306-D0D7-4D48-BA2B-0DBC5FDAD771}|BryanJonatan_Acceloka.csproj|c:\\users\\asus\\source\\repos\\bryanjonatan_acceloka\\bryanjonatan_acceloka\\model\\bookedticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35967306-D0D7-4D48-BA2B-0DBC5FDAD771}|BryanJonatan_Acceloka.csproj|solutionrelative:model\\bookedticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35967306-D0D7-4D48-BA2B-0DBC5FDAD771}|BryanJonatan_Acceloka.csproj|c:\\users\\asus\\source\\repos\\bryanjonatan_acceloka\\bryanjonatan_acceloka\\model\\availableticketresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35967306-D0D7-4D48-BA2B-0DBC5FDAD771}|BryanJonatan_Acceloka.csproj|solutionrelative:model\\availableticketresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35967306-D0D7-4D48-BA2B-0DBC5FDAD771}|BryanJonatan_Acceloka.csproj|c:\\users\\asus\\source\\repos\\bryanjonatan_acceloka\\bryanjonatan_acceloka\\model\\bookticketrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35967306-D0D7-4D48-BA2B-0DBC5FDAD771}|BryanJonatan_Acceloka.csproj|solutionrelative:model\\bookticketrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35967306-D0D7-4D48-BA2B-0DBC5FDAD771}|BryanJonatan_Acceloka.csproj|c:\\users\\asus\\source\\repos\\bryanjonatan_acceloka\\bryanjonatan_acceloka\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{35967306-D0D7-4D48-BA2B-0DBC5FDAD771}|BryanJonatan_Acceloka.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35967306-D0D7-4D48-BA2B-0DBC5FDAD771}|BryanJonatan_Acceloka.csproj|c:\\users\\asus\\source\\repos\\bryanjonatan_acceloka\\bryanjonatan_acceloka\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35967306-D0D7-4D48-BA2B-0DBC5FDAD771}|BryanJonatan_Acceloka.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35967306-D0D7-4D48-BA2B-0DBC5FDAD771}|BryanJonatan_Acceloka.csproj|c:\\users\\asus\\source\\repos\\bryanjonatan_acceloka\\bryanjonatan_acceloka\\model\\bookticketresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35967306-D0D7-4D48-BA2B-0DBC5FDAD771}|BryanJonatan_Acceloka.csproj|solutionrelative:model\\bookticketresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35967306-D0D7-4D48-BA2B-0DBC5FDAD771}|BryanJonatan_Acceloka.csproj|c:\\users\\asus\\source\\repos\\bryanjonatan_acceloka\\bryanjonatan_acceloka\\sqlscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35967306-D0D7-4D48-BA2B-0DBC5FDAD771}|BryanJonatan_Acceloka.csproj|solutionrelative:sqlscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookedTicket.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\BryanJonatan_Acceloka\\BryanJonatan_Acceloka\\Model\\BookedTicket.cs",
+              "RelativeDocumentMoniker": "Model\\BookedTicket.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\BryanJonatan_Acceloka\\BryanJonatan_Acceloka\\Model\\BookedTicket.cs",
+              "RelativeToolTip": "Model\\BookedTicket.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T02:06:51.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookTicketRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\BryanJonatan_Acceloka\\BryanJonatan_Acceloka\\Model\\BookTicketRequest.cs",
+              "RelativeDocumentMoniker": "Model\\BookTicketRequest.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\BryanJonatan_Acceloka\\BryanJonatan_Acceloka\\Model\\BookTicketRequest.cs",
+              "RelativeToolTip": "Model\\BookTicketRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T01:51:57.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\BryanJonatan_Acceloka\\BryanJonatan_Acceloka\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\BryanJonatan_Acceloka\\BryanJonatan_Acceloka\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T01:45:12.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TicketControllers.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\BryanJonatan_Acceloka\\BryanJonatan_Acceloka\\Controllers\\TicketControllers.cs",
+              "RelativeDocumentMoniker": "Controllers\\TicketControllers.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\BryanJonatan_Acceloka\\BryanJonatan_Acceloka\\Controllers\\TicketControllers.cs",
+              "RelativeToolTip": "Controllers\\TicketControllers.cs",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAiwJIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T01:41:12.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AvailableTicketResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\BryanJonatan_Acceloka\\BryanJonatan_Acceloka\\Model\\AvailableTicketResponse.cs",
+              "RelativeDocumentMoniker": "Model\\AvailableTicketResponse.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\BryanJonatan_Acceloka\\BryanJonatan_Acceloka\\Model\\AvailableTicketResponse.cs",
+              "RelativeToolTip": "Model\\AvailableTicketResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T01:52:25.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\BryanJonatan_Acceloka\\BryanJonatan_Acceloka\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\BryanJonatan_Acceloka\\BryanJonatan_Acceloka\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-14T01:45:16.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookTicketResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\BryanJonatan_Acceloka\\BryanJonatan_Acceloka\\Model\\BookTicketResponse.cs",
+              "RelativeDocumentMoniker": "Model\\BookTicketResponse.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\BryanJonatan_Acceloka\\BryanJonatan_Acceloka\\Model\\BookTicketResponse.cs",
+              "RelativeToolTip": "Model\\BookTicketResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T01:43:54.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SqlScript.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\BryanJonatan_Acceloka\\BryanJonatan_Acceloka\\SqlScript.cs",
+              "RelativeDocumentMoniker": "SqlScript.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\BryanJonatan_Acceloka\\BryanJonatan_Acceloka\\SqlScript.cs",
+              "RelativeToolTip": "SqlScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T01:39:06.122Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

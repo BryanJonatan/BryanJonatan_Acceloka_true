@@ -1,0 +1,256 @@
+2025-02-10 16:51:55.123 +07:00 [INF] Now listening on: https://localhost:7035
+2025-02-10 16:51:55.128 +07:00 [INF] Now listening on: http://localhost:5292
+2025-02-10 16:51:55.251 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-02-10 16:51:55.252 +07:00 [INF] Hosting environment: Development
+2025-02-10 16:51:55.252 +07:00 [INF] Content root path: C:\Users\Asus\source\repos\BryanJonatan_Acceloka\BryanJonatan_Acceloka\BryanJonatan_Acceloka
+2025-02-10 16:54:38.472 +07:00 [INF] Now listening on: https://localhost:7035
+2025-02-10 16:54:38.478 +07:00 [INF] Now listening on: http://localhost:5292
+2025-02-10 16:54:38.545 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-02-10 16:54:38.546 +07:00 [INF] Hosting environment: Development
+2025-02-10 16:54:38.546 +07:00 [INF] Content root path: C:\Users\Asus\source\repos\BryanJonatan_Acceloka\BryanJonatan_Acceloka\BryanJonatan_Acceloka
+2025-02-10 16:54:39.239 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7035/swagger - null null
+2025-02-10 16:54:39.364 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7035/swagger - 301 0 null 131.1989ms
+2025-02-10 16:54:39.368 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7035/swagger/index.html - null null
+2025-02-10 16:54:39.414 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7035/swagger/index.html - 200 null text/html;charset=utf-8 45.3216ms
+2025-02-10 16:54:39.420 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7035/swagger/swagger-ui.css - null null
+2025-02-10 16:54:39.421 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7035/swagger/index.css - null null
+2025-02-10 16:54:39.421 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7035/swagger/index.js - null null
+2025-02-10 16:54:39.421 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7035/swagger/swagger-ui-standalone-preset.js - null null
+2025-02-10 16:54:39.421 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7035/swagger/swagger-ui-bundle.js - null null
+2025-02-10 16:54:39.421 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7035/_framework/aspnetcore-browser-refresh.js - null null
+2025-02-10 16:54:39.424 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7035/_vs/browserLink - null null
+2025-02-10 16:54:39.427 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7035/swagger/index.js - 200 null application/javascript;charset=utf-8 6.1593ms
+2025-02-10 16:54:39.449 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7035/_framework/aspnetcore-browser-refresh.js - 200 13794 application/javascript; charset=utf-8 28.2194ms
+2025-02-10 16:54:39.455 +07:00 [INF] Sending file. Request path: '/index.css'. Physical path: 'N/A'
+2025-02-10 16:54:39.455 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7035/swagger/index.css - 200 202 text/css 33.9466ms
+2025-02-10 16:54:39.468 +07:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2025-02-10 16:54:39.470 +07:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2025-02-10 16:54:39.471 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7035/swagger/swagger-ui-standalone-preset.js - 200 230007 text/javascript 50.3108ms
+2025-02-10 16:54:39.472 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7035/swagger/swagger-ui.css - 200 152035 text/css 50.934ms
+2025-02-10 16:54:39.492 +07:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2025-02-10 16:54:39.492 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7035/swagger/swagger-ui-bundle.js - 200 1426050 text/javascript 71.2159ms
+2025-02-10 16:54:39.570 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7035/_vs/browserLink - 200 null text/javascript; charset=UTF-8 147.1181ms
+2025-02-10 16:54:39.624 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7035/swagger/v1/swagger.json - null null
+2025-02-10 16:54:39.633 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7035/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 9.2645ms
+2025-02-10 16:54:39.638 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7035/swagger/favicon-32x32.png - null null
+2025-02-10 16:54:39.638 +07:00 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2025-02-10 16:54:39.638 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7035/swagger/favicon-32x32.png - 200 628 image/png 0.9639ms
+2025-02-10 16:58:49.990 +07:00 [INF] Now listening on: https://localhost:7035
+2025-02-10 16:58:49.996 +07:00 [INF] Now listening on: http://localhost:5000
+2025-02-10 16:58:50.059 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-02-10 16:58:50.060 +07:00 [INF] Hosting environment: Development
+2025-02-10 16:58:50.060 +07:00 [INF] Content root path: C:\Users\Asus\source\repos\BryanJonatan_Acceloka\BryanJonatan_Acceloka\BryanJonatan_Acceloka
+2025-02-10 16:58:50.740 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7035/swagger/index.html - null null
+2025-02-10 16:58:50.874 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7035/swagger/index.html - 200 null text/html;charset=utf-8 140.8969ms
+2025-02-10 16:58:50.887 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7035/_framework/aspnetcore-browser-refresh.js - null null
+2025-02-10 16:58:50.887 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7035/swagger/index.js - null null
+2025-02-10 16:58:50.887 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7035/_vs/browserLink - null null
+2025-02-10 16:58:50.889 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7035/swagger/index.js - 200 null application/javascript;charset=utf-8 2.2221ms
+2025-02-10 16:58:50.899 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7035/_framework/aspnetcore-browser-refresh.js - 200 13794 application/javascript; charset=utf-8 12.2508ms
+2025-02-10 16:58:50.916 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7035/_vs/browserLink - 200 null text/javascript; charset=UTF-8 28.7674ms
+2025-02-10 16:58:51.102 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7035/swagger/v1/swagger.json - null null
+2025-02-10 16:58:51.110 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7035/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 8.0776ms
+2025-02-10 16:59:05.318 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7035/WeatherForecast - null null
+2025-02-10 16:59:05.335 +07:00 [INF] Executing endpoint 'BryanJonatan_Acceloka.Controllers.WeatherForecastController.Get (BryanJonatan_Acceloka)'
+2025-02-10 16:59:05.356 +07:00 [INF] Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[BryanJonatan_Acceloka.WeatherForecast] Get() on controller BryanJonatan_Acceloka.Controllers.WeatherForecastController (BryanJonatan_Acceloka).
+2025-02-10 16:59:05.363 +07:00 [INF] Executing ObjectResult, writing value of type 'BryanJonatan_Acceloka.WeatherForecast[]'.
+2025-02-10 16:59:05.378 +07:00 [INF] Executed action BryanJonatan_Acceloka.Controllers.WeatherForecastController.Get (BryanJonatan_Acceloka) in 18.324ms
+2025-02-10 16:59:05.378 +07:00 [INF] Executed endpoint 'BryanJonatan_Acceloka.Controllers.WeatherForecastController.Get (BryanJonatan_Acceloka)'
+2025-02-10 16:59:05.378 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7035/WeatherForecast - 200 null application/json; charset=utf-8 66.3236ms
+2025-02-10 17:00:45.384 +07:00 [INF] Now listening on: https://localhost:7035
+2025-02-10 17:00:45.389 +07:00 [INF] Now listening on: http://localhost:5000
+2025-02-10 17:00:45.448 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-02-10 17:00:45.449 +07:00 [INF] Hosting environment: Development
+2025-02-10 17:00:45.449 +07:00 [INF] Content root path: C:\Users\Asus\source\repos\BryanJonatan_Acceloka\BryanJonatan_Acceloka\BryanJonatan_Acceloka
+2025-02-10 17:00:46.047 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7035/swagger/index.html - null null
+2025-02-10 17:00:46.181 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7035/swagger/index.html - 200 null text/html;charset=utf-8 138.8721ms
+2025-02-10 17:00:46.199 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7035/_vs/browserLink - null null
+2025-02-10 17:00:46.199 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7035/_framework/aspnetcore-browser-refresh.js - null null
+2025-02-10 17:00:46.199 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7035/swagger/index.js - null null
+2025-02-10 17:00:46.202 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7035/swagger/index.js - 200 null application/javascript;charset=utf-8 3.3403ms
+2025-02-10 17:00:46.213 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7035/_framework/aspnetcore-browser-refresh.js - 200 13794 application/javascript; charset=utf-8 14.6204ms
+2025-02-10 17:00:46.235 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7035/_vs/browserLink - 200 null text/javascript; charset=UTF-8 36.9335ms
+2025-02-10 17:00:46.292 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7035/swagger/v1/swagger.json - null null
+2025-02-10 17:00:46.302 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7035/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 10.2928ms
+2025-02-10 17:01:51.739 +07:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-02-10 17:01:51.886 +07:00 [INF] Now listening on: https://localhost:7035
+2025-02-10 17:01:51.887 +07:00 [INF] Now listening on: http://localhost:5000
+2025-02-10 17:01:51.945 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-02-10 17:01:51.946 +07:00 [INF] Hosting environment: Development
+2025-02-10 17:01:51.946 +07:00 [INF] Content root path: C:\Users\Asus\source\repos\BryanJonatan_Acceloka\BryanJonatan_Acceloka\BryanJonatan_Acceloka
+2025-02-10 17:01:52.336 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7035/swagger/index.html - null null
+2025-02-10 17:01:52.462 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7035/swagger/index.html - 200 null text/html;charset=utf-8 132.3529ms
+2025-02-10 17:01:52.471 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7035/_framework/aspnetcore-browser-refresh.js - null null
+2025-02-10 17:01:52.471 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7035/swagger/index.js - null null
+2025-02-10 17:01:52.472 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7035/_vs/browserLink - null null
+2025-02-10 17:01:52.474 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7035/swagger/index.js - 200 null application/javascript;charset=utf-8 2.23ms
+2025-02-10 17:01:52.480 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7035/_framework/aspnetcore-browser-refresh.js - 200 13794 application/javascript; charset=utf-8 8.552ms
+2025-02-10 17:01:52.497 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7035/_vs/browserLink - 200 null text/javascript; charset=UTF-8 25.753ms
+2025-02-10 17:01:52.564 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7035/swagger/v1/swagger.json - null null
+2025-02-10 17:01:52.572 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7035/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 8.3844ms
+2025-02-10 17:03:04.827 +07:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-02-10 17:03:04.975 +07:00 [INF] Now listening on: https://localhost:7035
+2025-02-10 17:03:04.976 +07:00 [INF] Now listening on: http://localhost:5000
+2025-02-10 17:03:05.026 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-02-10 17:03:05.026 +07:00 [INF] Hosting environment: Development
+2025-02-10 17:03:05.026 +07:00 [INF] Content root path: C:\Users\Asus\source\repos\BryanJonatan_Acceloka\BryanJonatan_Acceloka\BryanJonatan_Acceloka
+2025-02-10 17:03:06.082 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7035/swagger/index.html - null null
+2025-02-10 17:03:06.214 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7035/swagger/index.html - 200 null text/html;charset=utf-8 138.0431ms
+2025-02-10 17:03:06.225 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7035/swagger/index.js - null null
+2025-02-10 17:03:06.225 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7035/_framework/aspnetcore-browser-refresh.js - null null
+2025-02-10 17:03:06.225 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7035/_vs/browserLink - null null
+2025-02-10 17:03:06.226 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7035/swagger/index.js - 200 null application/javascript;charset=utf-8 1.954ms
+2025-02-10 17:03:06.240 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7035/_framework/aspnetcore-browser-refresh.js - 200 13794 application/javascript; charset=utf-8 15.5258ms
+2025-02-10 17:03:06.258 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7035/_vs/browserLink - 200 null text/javascript; charset=UTF-8 33.9623ms
+2025-02-10 17:03:06.321 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7035/swagger/v1/swagger.json - null null
+2025-02-10 17:03:06.330 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7035/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 9.066ms
+2025-02-10 17:08:41.219 +07:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-02-10 17:08:41.366 +07:00 [INF] Now listening on: https://localhost:7035
+2025-02-10 17:08:41.367 +07:00 [INF] Now listening on: http://localhost:5292
+2025-02-10 17:08:41.417 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-02-10 17:08:41.417 +07:00 [INF] Hosting environment: Development
+2025-02-10 17:08:41.417 +07:00 [INF] Content root path: C:\Users\Asus\source\repos\BryanJonatan_Acceloka\BryanJonatan_Acceloka\BryanJonatan_Acceloka
+2025-02-10 17:08:42.141 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7035/swagger/index.html - null null
+2025-02-10 17:08:42.305 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7035/swagger/index.html - 200 null text/html;charset=utf-8 171.997ms
+2025-02-10 17:08:42.314 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7035/swagger/index.js - null null
+2025-02-10 17:08:42.314 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7035/_vs/browserLink - null null
+2025-02-10 17:08:42.315 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7035/_framework/aspnetcore-browser-refresh.js - null null
+2025-02-10 17:08:42.316 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7035/swagger/index.js - 200 null application/javascript;charset=utf-8 2.1258ms
+2025-02-10 17:08:42.354 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7035/_framework/aspnetcore-browser-refresh.js - 200 13794 application/javascript; charset=utf-8 39.9716ms
+2025-02-10 17:08:42.450 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7035/_vs/browserLink - 200 null text/javascript; charset=UTF-8 135.396ms
+2025-02-10 17:08:42.481 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7035/swagger/v1/swagger.json - null null
+2025-02-10 17:08:42.493 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7035/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 12.3855ms
+2025-02-10 17:09:30.620 +07:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-02-10 17:09:30.787 +07:00 [INF] Now listening on: https://localhost:7035
+2025-02-10 17:09:30.788 +07:00 [INF] Now listening on: http://localhost:5292
+2025-02-10 17:09:30.848 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-02-10 17:09:30.848 +07:00 [INF] Hosting environment: Development
+2025-02-10 17:09:30.849 +07:00 [INF] Content root path: C:\Users\Asus\source\repos\BryanJonatan_Acceloka\BryanJonatan_Acceloka\BryanJonatan_Acceloka
+2025-02-10 17:09:31.311 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7035/swagger/index.html - null null
+2025-02-10 17:09:31.442 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7035/swagger/index.html - 200 null text/html;charset=utf-8 136.1957ms
+2025-02-10 17:09:31.453 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7035/_framework/aspnetcore-browser-refresh.js - null null
+2025-02-10 17:09:31.453 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7035/swagger/index.js - null null
+2025-02-10 17:09:31.453 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7035/_vs/browserLink - null null
+2025-02-10 17:09:31.455 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7035/swagger/index.js - 200 null application/javascript;charset=utf-8 1.6762ms
+2025-02-10 17:09:31.473 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7035/_framework/aspnetcore-browser-refresh.js - 200 13794 application/javascript; charset=utf-8 19.7885ms
+2025-02-10 17:09:31.492 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7035/_vs/browserLink - 200 null text/javascript; charset=UTF-8 38.5454ms
+2025-02-10 17:09:31.554 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7035/swagger/v1/swagger.json - null null
+2025-02-10 17:09:31.564 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7035/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 10.1201ms
+2025-02-10 17:10:16.871 +07:00 [INF] Now listening on: https://localhost:7035
+2025-02-10 17:10:16.876 +07:00 [INF] Now listening on: http://localhost:5292
+2025-02-10 17:10:16.957 +07:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-02-10 17:10:17.022 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-02-10 17:10:17.022 +07:00 [INF] Hosting environment: Development
+2025-02-10 17:10:17.022 +07:00 [INF] Content root path: C:\Users\Asus\source\repos\BryanJonatan_Acceloka\BryanJonatan_Acceloka\BryanJonatan_Acceloka
+2025-02-10 17:10:17.179 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7035/swagger/index.html - null null
+2025-02-10 17:10:17.261 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7035/swagger/index.html - 404 0 null 87.846ms
+2025-02-10 17:10:17.265 +07:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7035/swagger/index.html, Response status code: 404
+2025-02-10 17:11:03.169 +07:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-02-10 17:11:03.331 +07:00 [INF] Now listening on: https://localhost:7035
+2025-02-10 17:11:03.332 +07:00 [INF] Now listening on: http://localhost:5292
+2025-02-10 17:11:03.392 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-02-10 17:11:03.393 +07:00 [INF] Hosting environment: Development
+2025-02-10 17:11:03.393 +07:00 [INF] Content root path: C:\Users\Asus\source\repos\BryanJonatan_Acceloka\BryanJonatan_Acceloka\BryanJonatan_Acceloka
+2025-02-10 17:11:03.572 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5292/ - null null
+2025-02-10 17:11:03.686 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5292/ - 307 0 null 130.2793ms
+2025-02-10 17:11:03.697 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7035/ - null null
+2025-02-10 17:11:03.703 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7035/ - 404 0 null 7.1714ms
+2025-02-10 17:11:03.705 +07:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7035/, Response status code: 404
+2025-02-10 17:11:21.604 +07:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-02-10 17:11:21.763 +07:00 [INF] Now listening on: https://localhost:7035
+2025-02-10 17:11:21.764 +07:00 [INF] Now listening on: http://localhost:5292
+2025-02-10 17:11:21.824 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-02-10 17:11:21.824 +07:00 [INF] Hosting environment: Development
+2025-02-10 17:11:21.824 +07:00 [INF] Content root path: C:\Users\Asus\source\repos\BryanJonatan_Acceloka\BryanJonatan_Acceloka\BryanJonatan_Acceloka
+2025-02-10 17:11:22.237 +07:00 [INF] Request starting HTTP/1.1 GET http://localhost:5292/ - null null
+2025-02-10 17:11:22.334 +07:00 [INF] Request finished HTTP/1.1 GET http://localhost:5292/ - 307 0 null 103.465ms
+2025-02-10 17:11:22.345 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7035/ - null null
+2025-02-10 17:11:22.352 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7035/ - 404 0 null 6.2359ms
+2025-02-10 17:11:22.353 +07:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7035/, Response status code: 404
+2025-02-10 17:12:34.650 +07:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-02-10 17:12:34.814 +07:00 [INF] Now listening on: https://localhost:7035
+2025-02-10 17:12:34.814 +07:00 [INF] Now listening on: http://localhost:5292
+2025-02-10 17:12:34.878 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-02-10 17:12:34.879 +07:00 [INF] Hosting environment: Development
+2025-02-10 17:12:34.879 +07:00 [INF] Content root path: C:\Users\Asus\source\repos\BryanJonatan_Acceloka\BryanJonatan_Acceloka\BryanJonatan_Acceloka
+2025-02-10 17:12:35.146 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7035/swagger/index.html - null null
+2025-02-10 17:12:35.297 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7035/swagger/index.html - 200 null text/html;charset=utf-8 156.9949ms
+2025-02-10 17:12:35.308 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7035/_vs/browserLink - null null
+2025-02-10 17:12:35.309 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7035/swagger/index.js - null null
+2025-02-10 17:12:35.309 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7035/_framework/aspnetcore-browser-refresh.js - null null
+2025-02-10 17:12:35.311 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7035/swagger/index.js - 200 null application/javascript;charset=utf-8 3.23ms
+2025-02-10 17:12:35.319 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7035/_framework/aspnetcore-browser-refresh.js - 200 13794 application/javascript; charset=utf-8 10.5983ms
+2025-02-10 17:12:35.339 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7035/_vs/browserLink - 200 null text/javascript; charset=UTF-8 31.1199ms
+2025-02-10 17:12:35.367 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7035/swagger/v1/swagger.json - null null
+2025-02-10 17:12:35.376 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7035/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 9.3634ms
+2025-02-10 17:12:42.838 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7035/swagger/v1/swagger.json - null null
+2025-02-10 17:12:42.844 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7035/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 5.8611ms
+2025-02-10 17:12:42.867 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7035/favicon.ico - null null
+2025-02-10 17:12:42.868 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7035/favicon.ico - 404 0 null 1.6757ms
+2025-02-10 17:12:42.869 +07:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7035/favicon.ico, Response status code: 404
+2025-02-10 17:15:38.071 +07:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-02-10 17:15:38.271 +07:00 [INF] Now listening on: https://localhost:7035
+2025-02-10 17:15:38.271 +07:00 [INF] Now listening on: http://localhost:5292
+2025-02-10 17:15:38.328 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-02-10 17:15:38.328 +07:00 [INF] Hosting environment: Development
+2025-02-10 17:15:38.328 +07:00 [INF] Content root path: C:\Users\Asus\source\repos\BryanJonatan_Acceloka\BryanJonatan_Acceloka\BryanJonatan_Acceloka
+2025-02-10 17:15:38.726 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7035/swagger/index.html - null null
+2025-02-10 17:15:38.859 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7035/swagger/index.html - 200 null text/html;charset=utf-8 139.2131ms
+2025-02-10 17:15:38.870 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7035/_framework/aspnetcore-browser-refresh.js - null null
+2025-02-10 17:15:38.870 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7035/_vs/browserLink - null null
+2025-02-10 17:15:38.871 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7035/swagger/index.js - null null
+2025-02-10 17:15:38.873 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7035/swagger/index.js - 200 null application/javascript;charset=utf-8 2.4314ms
+2025-02-10 17:15:38.893 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7035/_framework/aspnetcore-browser-refresh.js - 200 13794 application/javascript; charset=utf-8 22.7038ms
+2025-02-10 17:15:38.912 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7035/_vs/browserLink - 200 null text/javascript; charset=UTF-8 41.9791ms
+2025-02-10 17:15:38.972 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7035/swagger/v1/swagger.json - null null
+2025-02-10 17:15:38.980 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7035/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 8.1373ms
+2025-02-10 17:15:48.803 +07:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-02-10 17:15:48.968 +07:00 [INF] Now listening on: https://localhost:7035
+2025-02-10 17:15:48.968 +07:00 [INF] Now listening on: http://localhost:5292
+2025-02-10 17:15:49.027 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-02-10 17:15:49.027 +07:00 [INF] Hosting environment: Development
+2025-02-10 17:15:49.027 +07:00 [INF] Content root path: C:\Users\Asus\source\repos\BryanJonatan_Acceloka\BryanJonatan_Acceloka\BryanJonatan_Acceloka
+2025-02-10 17:15:49.407 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7035/swagger/index.html - null null
+2025-02-10 17:15:49.540 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7035/swagger/index.html - 200 null text/html;charset=utf-8 137.4369ms
+2025-02-10 17:15:49.555 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7035/_framework/aspnetcore-browser-refresh.js - null null
+2025-02-10 17:15:49.555 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7035/swagger/index.js - null null
+2025-02-10 17:15:49.557 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7035/_vs/browserLink - null null
+2025-02-10 17:15:49.557 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7035/swagger/index.js - 200 null application/javascript;charset=utf-8 2.0922ms
+2025-02-10 17:15:49.565 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7035/_framework/aspnetcore-browser-refresh.js - 200 13794 application/javascript; charset=utf-8 10.2795ms
+2025-02-10 17:15:49.584 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7035/_vs/browserLink - 200 null text/javascript; charset=UTF-8 27.4859ms
+2025-02-10 17:15:49.642 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7035/swagger/v1/swagger.json - null null
+2025-02-10 17:15:49.649 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7035/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 7.6592ms
+2025-02-10 17:16:26.333 +07:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-02-10 17:16:26.490 +07:00 [INF] Now listening on: https://localhost:7035
+2025-02-10 17:16:26.490 +07:00 [INF] Now listening on: http://localhost:5292
+2025-02-10 17:16:26.550 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-02-10 17:16:26.551 +07:00 [INF] Hosting environment: Development
+2025-02-10 17:16:26.551 +07:00 [INF] Content root path: C:\Users\Asus\source\repos\BryanJonatan_Acceloka\BryanJonatan_Acceloka\BryanJonatan_Acceloka
+2025-02-10 17:16:26.956 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7035/swagger/index.html - null null
+2025-02-10 17:16:27.097 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7035/swagger/index.html - 200 null text/html;charset=utf-8 147.3678ms
+2025-02-10 17:16:27.106 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7035/_framework/aspnetcore-browser-refresh.js - null null
+2025-02-10 17:16:27.106 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7035/swagger/index.js - null null
+2025-02-10 17:16:27.107 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7035/_vs/browserLink - null null
+2025-02-10 17:16:27.108 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7035/swagger/index.js - 200 null application/javascript;charset=utf-8 1.8143ms
+2025-02-10 17:16:27.123 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7035/_framework/aspnetcore-browser-refresh.js - 200 13794 application/javascript; charset=utf-8 14.9544ms
+2025-02-10 17:16:27.144 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7035/_vs/browserLink - 200 null text/javascript; charset=UTF-8 37.5403ms
+2025-02-10 17:16:27.171 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7035/swagger/v1/swagger.json - null null
+2025-02-10 17:16:27.181 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7035/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 9.8148ms
+2025-02-10 17:17:31.497 +07:00 [INF] Now listening on: https://localhost:7035
+2025-02-10 17:17:31.503 +07:00 [INF] Now listening on: http://localhost:5292
+2025-02-10 17:17:31.554 +07:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-02-10 17:17:31.618 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-02-10 17:17:31.619 +07:00 [INF] Hosting environment: Development
+2025-02-10 17:17:31.619 +07:00 [INF] Content root path: C:\Users\Asus\source\repos\BryanJonatan_Acceloka\BryanJonatan_Acceloka\BryanJonatan_Acceloka
+2025-02-10 17:17:31.856 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7035/api/v1 - null null
+2025-02-10 17:17:31.938 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7035/api/v1 - 404 0 null 87.2697ms
+2025-02-10 17:17:31.939 +07:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7035/api/v1, Response status code: 404
+2025-02-10 17:17:55.739 +07:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-02-10 17:17:55.903 +07:00 [INF] Now listening on: https://localhost:7035
+2025-02-10 17:17:55.904 +07:00 [INF] Now listening on: http://localhost:5292
+2025-02-10 17:17:55.961 +07:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-02-10 17:17:55.962 +07:00 [INF] Hosting environment: Development
+2025-02-10 17:17:55.962 +07:00 [INF] Content root path: C:\Users\Asus\source\repos\BryanJonatan_Acceloka\BryanJonatan_Acceloka\BryanJonatan_Acceloka
+2025-02-10 17:17:56.196 +07:00 [INF] Request starting HTTP/2 GET https://localhost:7035/api/v1 - null null
+2025-02-10 17:17:56.285 +07:00 [INF] Request finished HTTP/2 GET https://localhost:7035/api/v1 - 404 0 null 96.7311ms
+2025-02-10 17:17:56.287 +07:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7035/api/v1, Response status code: 404

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\BryanJonatan_Acceloka.props" />
+</Project>

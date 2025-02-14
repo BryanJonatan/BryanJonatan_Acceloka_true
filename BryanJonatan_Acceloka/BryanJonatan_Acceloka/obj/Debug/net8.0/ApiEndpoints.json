@@ -1,0 +1,142 @@
+[
+  {
+    "ContainingType": "BryanJonatan_Acceloka.Controllers.TicketsController",
+    "Method": "BookTicket",
+    "RelativePath": "api/v1/book-ticket",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "bookingRequests",
+        "Type": "System.Collections.Generic.List\u00601[[BryanJonatan_Acceloka.Model.BookTicketRequest, BryanJonatan_Acceloka, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BryanJonatan_Acceloka.Controllers.TicketsController",
+    "Method": "EditBookedTicket",
+    "RelativePath": "api/v1/edit-booked-ticket/{bookedTicketId}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "bookedTicketId",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "updates",
+        "Type": "System.Collections.Generic.List\u00601[[BryanJonatan_Acceloka.Model.BookedTicketUpdateRequest, BryanJonatan_Acceloka, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BryanJonatan_Acceloka.Controllers.TicketsController",
+    "Method": "GetAvailableTickets",
+    "RelativePath": "api/v1/get-available-ticket",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "categoryName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "ticketCode",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "ticketName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "price",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "eventDateMin",
+        "Type": "System.Nullable\u00601[[System.DateTime, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "eventDateMax",
+        "Type": "System.Nullable\u00601[[System.DateTime, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "orderBy",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "orderState",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "pageNumber",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "pageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BryanJonatan_Acceloka.Controllers.TicketsController",
+    "Method": "GetBookedTicket",
+    "RelativePath": "api/v1/get-booked-ticket/{bookedTicketId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "bookedTicketId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BryanJonatan_Acceloka.Controllers.TicketsController",
+    "Method": "RevokeTicket",
+    "RelativePath": "api/v1/revoke-ticket/{bookedTicketId}/{ticketCode}/{qty}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "bookedTicketId",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "ticketCode",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "qty",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

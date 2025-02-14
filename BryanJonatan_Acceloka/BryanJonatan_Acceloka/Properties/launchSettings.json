@@ -1,0 +1,15 @@
+﻿{
+
+        "profiles": {
+            "BryanJonatan_Acceloka": {
+                "commandName": "Project",
+                "launchBrowser": true,
+                "launchUrl": "swagger",
+                "environmentVariables": {
+                    "ASPNETCORE_ENVIRONMENT": "Development"
+                },
+                "applicationUrl": "https://localhost:7035;http://localhost:5292"
+            }
+
+
+    }

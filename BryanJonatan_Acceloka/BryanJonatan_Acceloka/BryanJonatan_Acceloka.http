@@ -1,0 +1,6 @@
+@BryanJonatan_Acceloka_HostAddress = http://localhost:5292
+
+GET {{BryanJonatan_Acceloka_HostAddress}}/api/v1/
+Accept: application/json
+
+###
